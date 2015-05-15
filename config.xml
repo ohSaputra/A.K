@@ -8,14 +8,14 @@
 		versionCode = "1"
         version   = "0.2.1">
 
-    <name>Boga Delivery</name>
+    <name>Mobile Klik - Eat</name>
 
     <description>
         Mobile Klik - Eat
     </description>
 
-    <author href="http://satudelivery.com" email="cs@klik-eat.com">
-        Boga Delivery
+    <author href="https://klik-eat.com" email="cs@klik-eat.com">
+        Mobile Klik - Eat
     </author>
 
 	<gap:platform name="android" />
